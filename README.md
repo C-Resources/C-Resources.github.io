@@ -1,2 +1,4 @@
 # C-Resources.github.io
-GitHub pages site for the C Language
+
+This git repository contains the GitHub pages site for the
+"C-Resources" GitHub organization).
