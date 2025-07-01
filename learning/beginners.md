@@ -22,8 +22,8 @@ some books also are suitable for guiding beginners.
 ## Courses for Beginners
 
 I can't suggest in-person courses that might be geographically
-convenient or accessible for you, but we can recommend a remote
-course: Havard's
+convenient or accessible for you, but I can recommend a remote course:
+Havard's
 [CS50x](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
 remote-learning course.
 
@@ -68,8 +68,8 @@ an introduction to programming in C.
 
 ## Bigger Books Are Not Necessarily Better
 
-Unfortunately the author did not learn C from any of the above books.
-Instead he unfortunately chose an enormous doorstop of a book with a
+Unfortunately I myself did not learn C from any of the above books.
+Instead I unfortunately chose an enormous doorstop of a book with a
 lot of pages in it, imagining that this would provide value-for-money.
 
 Unfortunately this wasn't the case; instead it turned out that the
@@ -94,18 +94,17 @@ you might find these exercises useful for practice.
 * [Computer Science by Example](https://cscx.org/)
    * These exercises teache Computer Science through C (or other
      languages) with a series of exercises of graduated difficulty.
-   * These are probably useful for
-      * Beginners who are comfortable with mathematical concepts
-      * People who already know one of the other supported languages,
-        who can contrast their solution in C and their solution in the
-        other language.
+   * These are probably useful for beginners who are comfortable with
+     mathematical concepts, or people who already know one of the
+     other supported languages, who can contrast their solution in C
+     and their solution in the other language.
 
 ## Reading Code
 
 When learning C, beginners should probably read a lot more code than
 they write (and to be sure this reflects what professional programmers
 usually do).  However, many teaching environments don't feature a lot
-of reading code, and we don't yet have a "recommended reading list" of
+of reading code, and I don't yet have a "recommended reading list" of
 good C code.
 
 ## Learning from Videos and Tutorials
