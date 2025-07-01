@@ -5,8 +5,8 @@
 For those who are new to C, we have pages which suggest ways to learn
 and resources to use:
 
-* [Learning C for Programming Beginners](learning/beginners.md)
-* [Learning C for Experienced Programmers](learning/non-beginners.md)
+* [Learning C for Programming Beginners](beginners.md)
+* [Learning C for Experienced Programmers](non-beginners.md)
 
 ## Learning Resources for C Programmers
 
@@ -29,7 +29,7 @@ practice](practice.md) page useful.
 
 * Beginners Mistakes
    * Trying to learn C by using tutorials can present problems; see
-     [Learning C for Programming Beginners](learning/beginners.md) for
+     [Learning C for Programming Beginners](beginners.md) for
      an explanation and some alternative approaches.
    * [A beginners' guide away from
      scanf()](https://sekrit.de/webdocs/c/beginners-guide-away-from-scanf.html)
