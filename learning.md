@@ -1,59 +1,19 @@
 # Learning Resources
 
-This page points to learning resources for beginners and
-non-beginners.  The resources here are mostly things that you read,
-listen to, watch, and so on. A lot of people find that they learn best
-by applying the things that they are learning.  If that is you, we
-still recommend using a book or a course to begin your learning, but
-you might also find our page about [resources for
-practice](https://www.reddit.com/r/C_Programming/wiki/index/learning/practice)
-useful.
+## Resources for Those Unfamiliar with C
 
-When learning C, beginners should probably read a lot more code than
-they write (and to be sure this reflects what professional programmers
-usually do).  However, many teaching environments don't feature a lot
-of reading code, and we don't yet have a "recommended reading list" of
-good C code.
+For those who are new to C, we have pages which suggest ways to learn
+and resources to use:
 
-## Books Suitable for Programming Beginners
+* [Learning C for Programming Beginners](learning/beginners.md)
+* [Learning C for Experienced Programmers](learning/non-beginners.md)
 
-* [*C Programming: A Modern
-  Approach*](http://knking.com/books/c2/index.html) by K N King
-* *[Effective C](http://robertseacord.com/wp/)* by Robert C. Seacord
-   * The book doesn't assume you can already program.  It is very
-     careful to only teach correct ideas, without simplifying or
-     "dumbing down".  If you can learn C from this book, you will come
-     out of it with fewer misconceptions that might be the case with
-     some other books.  On the other hand, other books might provide a
-     gentler learning curve (to illustrate, *Effective C* introduces
-     the concept of Undefined Behaviour on page 10).
-* Often recommended in the past but perhaps not recently: *C: How to
-  Program*, 2nd Ed., Deitel, H.M. & Deitel, P.J.
+## Learning Resources for C Programmers
 
-
-Although it is not strictly a book, a lot of people find that
-Harvard's
-[CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x)
-(Harvard's introduction to computer science with a C programming
-course) is very good.
-
-## Books Suitable for Experienced Programmers
-
-These books either assume you are already able to program in some
-other language, or at least don't claim to be accessible by beginners.
-
-* Literal paper books:
-   * *[The C Programming
-     Language](http://www.amazon.com/gp/product/0131103628)* by Dennis
-     M. Ritchie and Brian W. Kernighan, second edition, ANSI
-     C. Written by the language author, and known colloquially as the
-     "K & R" book—a book of lore
-* Available as a printed book or but also for free online
-   * [*The C Book*](http://publications.gbdirect.co.uk/c_book/) second
-     edition by Mike Banahan, Declan Brady and Mark Doran is freely
-     available online
-   * [*Modern C*](https://inria.hal.science/hal-02383654) by Jens
-     Gustedt (CC-BY-NC-ND)
+This pages focuses on books, podcasts and other content for C
+programmers.  Many people find that they learn best by "learning by
+doing", and so you might find the [resources for
+practice](practice.md) page useful.
 
 ## Other Books
 * [The Standard C Library](https://dl.acm.org/doi/10.5555/532092) by P. J. Plauger
@@ -65,16 +25,12 @@ other language, or at least don't claim to be accessible by beginners.
 ## FAQs
    * [comp.lang.c FAQ](http://c-faq.com/)
 
-## Tutorials on Specific Topics
+## Tutorials on the C Language
 
 * Beginners Mistakes
-   * Videos
-      * Trying to learn to program by watching video tutorials can
-        often put beginners in "Tutorial Hell" where they watch a lot
-        of content but come out of still not having a great
-        understanding.  See [What exactly is tutorial
-        hell?](https://www.reddit.com/r/learnprogramming/comments/188ated/what_exactly_is_tutorial_hell/)
-        for some opinions on the problem.
+   * Trying to learn C by using tutorials can present problems; see
+     [Learning C for Programming Beginners](learning/beginners.md) for
+     an explanation and some alternative approaches.
    * [A beginners' guide away from
      scanf()](https://sekrit.de/webdocs/c/beginners-guide-away-from-scanf.html)
 * The C Language
@@ -85,6 +41,10 @@ other language, or at least don't claim to be accessible by beginners.
       * [Beej's Guide to C Programming — Library Reference](https://beej.us/guide/bgclr/)
    * [A Tutorial on Pointers and Arrays in
      C](https://github.com/jflaherty/ptrtut13)
+
+
+## Tutorials on Specific Topics
+
 * Floating-Point Arithmetic
    * [What every computer scientist should know about floating-point
      arithmetic](https://dl.acm.org/doi/pdf/10.1145/103162.103163) by
