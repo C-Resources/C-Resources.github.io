@@ -10,5 +10,6 @@ programmers and for programmers with experience in other languages.
 
 * Skills Development
    * [Skills building by practice](practice.md)
-* [The C Language Standard](standard.md)
+* [Reference Information For C Programmers](reference/index.md)
+  including [The C Language Standard](reference/standard.md)
 * [Tools Useful for C Programming](tools/index.md)
