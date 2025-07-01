@@ -174,7 +174,7 @@ These are tools which deduce problems with your program at runtime.
 
 * Memory Access debugging
    * [Valgrind](https://valgrind.org/)
-      * See also their poll on [compatison with Purify and
+      * See also their poll on [comparison with Purify and
         Insure++](https://valgrind.org/gallery/survey_03/q4.html) from
         a (years ago) [Valgrind
         survey](https://valgrind.org/gallery/survey_03/summary.html#summary)
